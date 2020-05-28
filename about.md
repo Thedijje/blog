@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
 ![_config.yml]({{ site.baseurl }}/images/about-me.jpg)
 
 Hello All, Dheeraj AKA DJ here. I am fullstack developer works with PHP stack, from doing basic HTML/CSS to managing AWS infrastructure, all amaze me, and i do love all these.

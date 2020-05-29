@@ -52,7 +52,7 @@ If you want to make your variable available globally, and you also open for any 
 
 If you want variable to be available globally but do not want to be changes, var is definately not good option.
 
-Let's get to `Const` for the same reason
+Let's get to `const` for the same reason
 
 ## const - Global & Immutable
 As name suggest, its constant, you can use this way of declearing variable when you want to keep your variable available globally but do not want any other code/process/method/function to alter this.

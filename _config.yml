@@ -54,7 +54,7 @@ baseurl: "/blog"
 #
 
 
-full_base_url: https://thedijje.com/blog/
+full_base_url: https://thedijje.com/blog
 
 
 permalink: /:title/

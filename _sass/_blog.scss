@@ -1,3 +1,8 @@
+ul.social-share{
+    padding:0px;
+    margin:0px;
+}
+
 ul.social-share li {
     list-style: none;
     display: inline;
@@ -6,15 +11,15 @@ ul.social-share li {
     margin: 0px;
 }
 
-.whastapp{
+a.whastapp{
     color:'#128c7e';
 }
 
-.facebook{
+a.facebook{
 color:'#3b5998';
 }
 
-.twitter{
+a.twitter{
     color:'#1da1f2';
 }
 

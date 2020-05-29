@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Javascript variables - Var | let | const
+title: Understanding Javascript variables - var | let | const
 cover: https://images.unsplash.com/photo-1503437313881-503a91226402?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80
 ---
 
